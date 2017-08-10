@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "444529833373",
+    "firebase_url": "https://push-reminders.firebaseio.com",
+    "project_id": "push-reminders",
+    "storage_bucket": "push-reminders.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444529833373:android:6823d135f8ed364f",
+        "android_client_info": {
+          "package_name": "com.ganeshmatkam.pushreminders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444529833373-arev3hlkktcefrp7bh3o0tlgsk4jghtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEB4Lju9WnMbwLBuiPeYgCh7f3N3sReTY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
